@@ -16,7 +16,7 @@ export const socials = [
   },
 ];
 
-const title = "Shubham Kumar Thakur";
+const title = "Shubham Kumar Thakur ";
 const description =
   "Full-Stack Developer 🧑🏻‍💻 ";
 const image =
